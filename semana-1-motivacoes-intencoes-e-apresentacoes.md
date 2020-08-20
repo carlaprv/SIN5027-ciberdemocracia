@@ -1,3 +1,9 @@
+---
+description: >-
+  Primeira aula da disciplina. Esse capítulo descreve minhas notas de aula e as
+  atividades que entreguei na semana 1.
+---
+
 # Semana 1 - Motivações, intenções e apresentações
 
 ## Atividade: Ciberdemocracia em contexto
@@ -17,25 +23,25 @@ Reflita a partir da notícia, nos seguintes pontos:
 7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto?
 8. Como?
 
-## Notícia: [\[The Intercept Brasil\] Levantamento revela que 90,5% dos presos por monitoramento facial no Brasil são negros](https://theintercept.com/2019/11/21/presos-monitoramento-facial-brasil-negros/)
+### Notícia: [\[The Intercept Brasil\] Levantamento revela que 90,5% dos presos por monitoramento facial no Brasil são negros](https://theintercept.com/2019/11/21/presos-monitoramento-facial-brasil-negros/)
 
-### **1. Porque a notícia te chamou a atenção?**
+#### **1. Porque a notícia te chamou a atenção?**
 
-\*\*\*\*
+Como mestranda em Inteligência Artificial e engajada nas pautas raciais dentro desse tema, essa notícia me chamou muito a atenção e sempre costumo levá-la como exemplo nas minhas palestras sobre Inteligência Artificial e como ela propaga vieses discriminatórios, de vigilância e encarceramento. Podemos ver a tecnologia como uma nova ferramenta para o sistema racista em que o Brasil vive e precisamos entender como isso realmente acontece.
 
-### 2. Qual aspecto da ciberdemocracia é abordado na notícia**?**
+#### 2. Qual aspecto da ciberdemocracia é abordado na notícia**?**
 
-### 3. Qual a questão, situação, problema é apresentado?
+#### 3. Qual a questão, situação, problema é apresentado?
 
-### 4. Qual a solução discutida ou desenvolvida?
+#### 4. Qual a solução discutida ou desenvolvida?
 
-### 5. Há resultados \(positivos ou negativos\)?
+#### 5. Há resultados \(positivos ou negativos\)?
 
-### 6. Qual a sua crítica em relação ao contexto problema, solução e resultados?
+#### 6. Qual a sua crítica em relação ao contexto problema, solução e resultados?
 
-### 7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto?
+#### 7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto?
 
-### 8. Como?
+#### 8. Como?
 
 ## **Leituras**
 
