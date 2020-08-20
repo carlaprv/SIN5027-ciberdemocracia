@@ -2,10 +2,7 @@
 
 ## Descrição da atividade
 
-1. Acesse a Wiki da disciplina \(disponível na aba "Geral"\).  
-2. Na página "Projetos" crie uma página para o seu projeto.   
-3. Nomeie o seu projeto como desejar.  
-4. Nesta nova página criada, inclua os seguintes itens:
+Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 * Autor: &lt;seu nome&gt;
 * Tema: &lt;descrição do tema de interesse a ser explorado na disciplina&gt;
@@ -17,5 +14,23 @@
 * Produtos e resultados esperados: &lt;artefatos principais esperados com a pesquisa&gt;
 * Contribuições: &lt;contribuições científicas e/ou tecnológicas do projeto&gt;
 
-5. Detalhe, na página criada, pelo menos os dois primeiros itens da lista acima - Autor e Tema. Caso consiga descrever mais itens da lista, fique à vontade.
+## Projeto: 
+
+**Autor:** Carla Vieira
+
+**Tema:**
+
+**Contexto:**
+
+**Questão de pesquisa:** 
+
+**Objetivo do Projeto:** 
+
+**Método:**  
+
+**Trabalhos relacionados:** 
+
+**Produtos e resultados esperados:** &lt;artefatos principais esperados com a pesquisa&gt;
+
+**Contribuições:** &lt;contribuições científicas e/ou tecnológicas do projeto&gt;
 
