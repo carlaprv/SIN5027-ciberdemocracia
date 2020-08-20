@@ -6,11 +6,13 @@ description: >-
 
 # Semana 1 - Motivações, intenções e apresentações
 
-## Atividades
+## Notas de aula
 
-
-
-
+* Apresentação das professoras e dos inscritos na disciplina
+  * Profa. Renata Araujo: participa do [Grupo de Pesquisa e Inovação em Ciberdemocracia](https://ciberdem.mack.com.br/)
+  * Profa. Gisele Craveiro: participa do [Co:Lab](https://colab.each.usp.br/)
+* Porque realizar pesquisas no tema de sistemas de informação para ciberdemocracia
+* Oportunidades de ações na disciplina
 
 ## **Leituras sugeridas**
 
