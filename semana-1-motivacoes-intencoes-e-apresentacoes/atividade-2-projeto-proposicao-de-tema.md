@@ -14,11 +14,11 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 * Produtos e resultados esperados: &lt;artefatos principais esperados com a pesquisa&gt;
 * Contribuições: &lt;contribuições científicas e/ou tecnológicas do projeto&gt;
 
-## Projeto: 
+## Projeto 
 
 **Autor:** Carla Vieira
 
-**Tema:**
+**Tema:** 
 
 **Contexto:**
 
