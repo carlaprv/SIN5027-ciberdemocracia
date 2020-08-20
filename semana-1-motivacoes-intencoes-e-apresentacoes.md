@@ -23,7 +23,7 @@ Reflita a partir da notícia, nos seguintes pontos:
 7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto?
 8. Como?
 
-### Notícia: [\[The Intercept Brasil\] Levantamento revela que 90,5% dos presos por monitoramento facial no Brasil são negros](https://theintercept.com/2019/11/21/presos-monitoramento-facial-brasil-negros/)
+## Notícia: [\[The Intercept Brasil\] Levantamento revela que 90,5% dos presos por monitoramento facial no Brasil são negros](https://theintercept.com/2019/11/21/presos-monitoramento-facial-brasil-negros/)
 
 #### **1. Porque a notícia te chamou a atenção?**
 
