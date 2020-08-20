@@ -1,4 +1,4 @@
-# Atividade 2: Projeto - proposição de tema
+# Atividade 3: Projeto - proposição de tema
 
 ## Descrição da atividade
 
