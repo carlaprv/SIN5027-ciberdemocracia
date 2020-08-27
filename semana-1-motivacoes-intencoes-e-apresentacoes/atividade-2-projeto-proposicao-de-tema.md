@@ -16,11 +16,11 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 ## Projeto 
 
-**Autor:** Carla Vieira
+**Autor:** Carla  Vieira
 
-**Tema:** 
+**Tema:**  Descolonização da Inteligência Artificial
 
-**Contexto:**
+**Contexto:** Países como o Brasil estão na periferia da produção de tecnologia. O problema é que muitas vezes importamos tecnologias e sistemas de Inteligência Artificial de outros países, como Estados Unidos, sem considerar nosso contexto e seguimos reproduzindo vieses e reforçando os interesses de grandes empresas de tecnologia.
 
 **Questão de pesquisa:** 
 
