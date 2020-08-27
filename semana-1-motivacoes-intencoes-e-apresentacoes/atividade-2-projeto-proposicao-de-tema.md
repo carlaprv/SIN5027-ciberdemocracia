@@ -34,3 +34,9 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 **Contribuições:** &lt;contribuições científicas e/ou tecnológicas do projeto&gt;
 
+### Referências
+
+[https://www.opendemocracy.net/pt/democraciaabierta-pt/precisamos-descolonizar-nosso-futuro/](https://www.opendemocracy.net/pt/democraciaabierta-pt/precisamos-descolonizar-nosso-futuro/)
+
+[http://arxiv.org/abs/2007.04068](http://arxiv.org/abs/2007.04068)
+
