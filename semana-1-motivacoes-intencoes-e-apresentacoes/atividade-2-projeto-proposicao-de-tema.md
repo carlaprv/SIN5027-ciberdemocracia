@@ -18,13 +18,11 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 **Autor:** Carla  Vieira
 
-**Tema:**  Decolonização da Inteligência Artificial
+**Tema:** Decolonização da Inteligência Artificial
 
 **Contexto:** 
 
 Ao mesmo tempo em que os algoritmos de Inteligência Artificial trazem possibilidades magníficas de otimização do trabalho e outras transformações positivas, também trazem riscos e desafios que precisam ser conhecidos e considerados antes de sua adoção. 
-
-Precisamos ampliar o nosso conhecimento e interesse sobre o funcionamento dessas novas tecnologias, assim como criarmos mecanismos e regras para seu uso, de modo a ter controle sobre o aumento de seu poder de influência sobre os usuários e não dependermos de caixas pretas sobre as quais não temos nenhum controle.
 
 Parece haver uma expectativa geral de que o desenvolvimento de Inteligência Artificial irá trazer soluções para vários dos problemas da humanidade. O problema é que no geral o desenvolvimento dessas tecnologias não é acompanhado de uma reflexão sobre as dinâmicas que estruturam a nossa sociedade: como o racismo e o colonialismo.
 
@@ -32,11 +30,20 @@ Nesse ponto, entram as teorias decoloniais que utilizam uma visão histórica pa
 
 Ao incorporar uma abordagem crítica decolonial no desenvolvimento de IA, podemos pesquisar/desenvolver tecnologias estabelecendo princípios éticos e centralizando as soluções nas comunidades mais impactadas e pouco representadas nesses sistemas.
 
+Precisamos ampliar o nosso conhecimento e interesse sobre o funcionamento dessas novas tecnologias, assim como criarmos mecanismos e regras para seu uso, de modo a ter controle sobre o aumento de seu poder de influência sobre os usuários e não dependermos de caixas pretas sobre as quais não temos nenhum controle.
+
 **Questão de pesquisa:** 
+
+* Como incentivar o debate sobre construção de tecnologias e IA de forma decolonial? 
+* Como fazer com que pesquisadores da área reflitam sobre a construção dessas tecnologias considerando a tecnologia como meio e não como fim?
 
 **Objetivo do Projeto:** Incentivar a inovação e pesquisa de IA através de uma visão decolonial que coloca as comunidades impactadas no centro da questão.
 
 **Método:**  
+
+* escrita de artigos em revistas que alcancem o público
+* divulgação científica
+* \(ainda pensando em mais formas\)
 
 **Trabalhos relacionados:** 
 
@@ -46,6 +53,4 @@ Ao incorporar uma abordagem crítica decolonial no desenvolvimento de IA, podemo
 **Produtos e resultados esperados:** &lt;artefatos principais esperados com a pesquisa&gt;
 
 **Contribuições:** &lt;contribuições científicas e/ou tecnológicas do projeto&gt;
-
-### Referências
 
