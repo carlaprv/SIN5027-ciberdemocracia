@@ -46,9 +46,15 @@ Macek \(2005\) sistematiza o conceito de cibercultura em quatro categorias: uto�
 
 **Referências:** [Colaborações dos estudos de cibercultura para a ciência da informação](https://periodicos.unb.br/index.php/RICI/article/view/2441) e [As Teorias da Cibercultura perspectivas, questões e autores](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwibrsiX-szrAhUGCrkGHdnSCQwQFjABegQIARAB&url=https%3A%2F%2Fwww.editorasulina.com.br%2Fimg%2Fsumarios%2F536.pdf&usg=AOvVaw1Mt8rVQ38f0Jgfy90j4nLk)
 
-\*\*\*\*
-
 **Cibernética** 
+
+O conceito nasceu nos anos 40 e foi estabelecido a partir do encontro de Wiener com o matemático Von Newman, os físicos Vannevar Bush, Bigelow, e os fisiologistas W.B. Cannon e Mac Culloch.
+
+Podemos definir a cibernética \(nome derivado de uma palavra grega que significa _dirigir_\) como a ciência do controle por meio de sistemas de informação, sejam estes sistemas naturais \(como a nossa fala\) ou como artificiais \(ex.: computadores\).
+
+Portanto, o sentido inicial de cibernética diz respeito ao controle, cujo conceito pode ser aplicado em Computação, Fisiologia e nas Ciências Sociais, além de outras áreas do conhecimento, com associação à teoria das mensagens.
+
+**Referências:** [Colaborações dos estudos de cibercultura para a ciência da informação](https://periodicos.unb.br/index.php/RICI/article/view/2441)
 
 **Ciberdemocracia** 
 
