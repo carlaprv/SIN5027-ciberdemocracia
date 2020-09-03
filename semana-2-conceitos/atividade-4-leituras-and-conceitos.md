@@ -58,5 +58,15 @@ Portanto, o sentido inicial de cibernética diz respeito ao controle, cujo conc
 
 **Ciberdemocracia** 
 
-Democracia = governo do povo, governo da maioria
+Democracia = governo do povo, governo da maioria + Ciber =  Internet
+
+A tecnologia e a internet estão, hoje, no bolso de milhões de pessoas. A cultura de seu uso já possibilita impactos na esfera sociopolítica em diversos países, inclusive no Brasil.
+
+As proporções das manifestações no Brasil deixam muito claro esse conceito e a ânsia de o cidadão ser mais do que participante de uma democracia eleitoral, mas um ator da política, de forma protagonista. 
+
+O que a Ciberdemocracia pode proporcionar é uma amplificação da participação popular nas tomadas de decisão políticas para os mais variados pontos. Por mais que entendamos que o direito democrático também ser exercido fora das redes, as tecnologias facilitam, desde a votação de emendas, propostas legislativas até a difusão de teorias ou ideologias políticas, aumentando a capacidade de influência da população. No entanto, as possibilidades de Ciberdemocracia esbarram em ponto bastante sensível: a inclusão digital.
+
+**Referências:** [Ciberdemocracia: A Internet Como Ágora Digital ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiHs9qLgM3rAhXdI7kGHRayAucQFjAAegQIBRAB&url=https%3A%2F%2Fwww.revistas.unijui.edu.br%2Findex.php%2Fdireitoshumanosedemocracia%2Farticle%2Fview%2F6696%2F5778&usg=AOvVaw1Nkc1NwRuYDvt-uUmdafEq)e [O futuro da internet: em direção a uma ciberdemocracia \(resenha\)](https://www.researchgate.net/publication/304519075_O_futuro_da_internet_em_direcao_a_uma_ciberdemocracia_planetaria)
+
+
 
