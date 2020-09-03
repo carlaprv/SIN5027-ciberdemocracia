@@ -1,5 +1,17 @@
 # Semana 2 - Conceitos
 
+## Notas de aula
+
+### **Objetivos**
+
+Conhecer os principais conceitos e correntes teóricas envolvidas na disciplina.
+
+### **Conceitos**  
+
+* Políticos: estado, governo, democracia
+* Administrativos: gestão/administração pública, governança
+* Tecnológico-político-sociais: cibernética, cibercultura, ciberdemocracia 
+
 ## Leituras sugeridas
 
 * ROSENFIELD, D. 1994. O que é Democracia? Editora Brasiliense. 
