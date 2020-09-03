@@ -1,11 +1,5 @@
 # Semana 2 - Conceitos
 
-## Notas de aula
-
-
-
-
-
 ## Leituras sugeridas
 
 * ROSENFIELD, D. 1994. O que é Democracia? Editora Brasiliense. 
