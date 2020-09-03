@@ -8,4 +8,5 @@
 * [Semana 2 - Conceitos](semana-2-conceitos/README.md)
   * [Atividade 4: Leituras & Conceitos](semana-2-conceitos/atividade-4-leituras-and-conceitos.md)
 * [Semana 3 - Governo Aberto](semana-3-governo-aberto.md)
+* [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial.md)
 

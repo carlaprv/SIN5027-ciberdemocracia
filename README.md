@@ -44,5 +44,13 @@ Ao final da disciplina, esperamos que todos estejamos aptos a:
 * Concepção, design, desenvolvimento e avaliação de Sistemas de Informação para Ciberdemocracia
 * Estudos de caso nacionais e internacionais
 
+### Avaliação
+
+* Leitura, interpretação e discussão de textos acadêmico-científicos 
+* Organização colaborativa de material de referência a partir das leituras e discussões em aulas
+* Desenvolvimento de um estudo teórico ou prático relacionado ao tema \(temas sugeridos pela disciplina ou trazidos pelos alunos\) com duas apresentações ao longo da disciplina. Formato: artigo, protótipo, vídeo, ou outro formato proposto pelo aluno.
+* Elaboração de materiais de produção/divulgação científica a partir dos trabalhos
+* Presença mínima em 75% das aulas previstas
+
 
 
