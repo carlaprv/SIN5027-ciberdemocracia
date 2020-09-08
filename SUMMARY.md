@@ -7,6 +7,7 @@
   * [Atividade 3: Projeto - proposição de tema](semana-1-motivacoes-intencoes-e-apresentacoes/atividade-2-projeto-proposicao-de-tema.md)
 * [Semana 2 - Conceitos](semana-2-conceitos/README.md)
   * [Atividade 4: Leituras & Conceitos](semana-2-conceitos/atividade-4-leituras-and-conceitos.md)
-* [Semana 3 - Governo Aberto](semana-3-governo-aberto.md)
+* [Semana 3 - Governo Aberto](semana-3-governo-aberto/README.md)
+  * [Atividade 5: Pilares Governo Aberto](semana-3-governo-aberto/atividade-5-pilares-governo-aberto.md)
 * [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial.md)
 
