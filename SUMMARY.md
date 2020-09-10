@@ -10,4 +10,5 @@
 * [Semana 3 - Governo Aberto](semana-3-governo-aberto/README.md)
   * [Atividade 5: Pilares Governo Aberto](semana-3-governo-aberto/atividade-5-pilares-governo-aberto.md)
 * [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial.md)
+* [Semana 4 - Dados Governamentais Abertos](semana-4-dados-governamentais-abertos.md)
 
