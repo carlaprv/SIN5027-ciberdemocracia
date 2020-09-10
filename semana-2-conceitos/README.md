@@ -1,7 +1,5 @@
 # Semana 2 - Conceitos
 
-## Notas de aula
-
 ### **Objetivos**
 
 Conhecer os principais conceitos e correntes teóricas envolvidas na disciplina.

@@ -1,7 +1,5 @@
 # Semana 3 - Governo Aberto
 
-## Notas de aula
-
 ### **Objetivos**
 
 * Compreender o conceito de Governo Aberto
