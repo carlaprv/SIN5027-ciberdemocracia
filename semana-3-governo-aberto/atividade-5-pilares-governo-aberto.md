@@ -6,7 +6,9 @@ description: >-
 
 # Atividade 5: Pilares Governo Aberto
 
-A opressão algorítmica e decolonizaçào que falamos trata da subordinação de um grupo social e o privilégio de outro - mantido por uma "rede complexa de restrições sociais" que vão desde normas sociais, leis, regras institucionais, preconceitos implícitos e estereótipos - por meio de dados e sistemas de Inteligência Artificial.
+## Pilares governo aberto
+
+A opressão algorítmica e decolonização que falamos trata da subordinação de um grupo social e o privilégio de outro - mantido por uma "rede complexa de restrições sociais" que vão desde normas sociais, leis, regras institucionais, preconceitos implícitos e estereótipos - por meio de dados e sistemas de Inteligência Artificial.
 
 Uma visão decolonial ajuda a entender essas opressões algorítmicas dentro de contextos sociopolíticos e culturais mais amplos, permitindo uma análise geográfica, histórica e interseccional dos riscos e oportunidades de sistemas de IA.
 
@@ -23,6 +25,4 @@ Iniciativas como a [Diversity.ai](http://DIVErsity.ai) e [OpenAI](https://openai
 Acho que um ponto quando pensamos em Inteligência Artificial é sobre como apresenta muitos riscos aos grupos historicamente marginalizados na nossa sociedade. Por conta disso, eu acredito que seja de grande importância a participação desses grupos nesses temas e reflexões.
 
 Penso que a sociedade __precisa entender culturalmente como grupos marginalizados estão sendo oprimidos agora e qual o papel da tecnologia e Inteligência Artificial nisso, e, claro, como a ciência é política.
-
-
 
