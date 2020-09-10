@@ -8,14 +8,6 @@
 * Apresentar a trajetória do movimento
 * Relacionar com os eixos de um governo aberto
 
-### Links apresentados
-
-* [https://opendefinition.org/od/2.1/en/](https://opendefinition.org/od/2.1/en/)
-* [https://5stardata.info/pt-BR/](https://5stardata.info/pt-BR/)
-* [https://opengovdata.org/](https://opengovdata.org/)
-* [https://www.w3.org/TR/dwbp/\#dataAccess](https://www.w3.org/TR/dwbp/#dataAccess)
-* [https://opendatacharter.net/who-we-are/](https://opendatacharter.net/who-we-are/)
-
 ### **Leitura**
 
 * [State of Open Data](https://stateofopendata.od4d.net/) - livro com capítulos temáticos ou regionais com reflexões de 10 anos da comunidade de prática de dados governamentais abertos.
@@ -23,7 +15,8 @@
 ### **Iniciativas para padronização da publicação de dados abertos**
 
 * The International [Open Data Charter](https://opendatacharter.net/) - declaração dos dados abertos, adotada por diversos governos no mundo
-* [Open Fiscal Data Package](http://www.fiscaltransparency.net/ofdp/), da [Global Initiative for Fiscal Transparency \(GIFT\)](http://www.fiscaltransparency.net/) - padrão de  dados abertos fiscais
+* [Open Data Barometer -](https://opendatabarometer.org/?_year=2017&indicator=ODB) uma medida global de como os governos estão publicando e usando dados abertos para responsabilidade, inovação e impacto social.
+* [Open Fiscal Data Package](http://www.fiscaltransparency.net/ofdp/), da [Global Initiative for Fiscal Transparency \(GIFT\)](http://www.fiscaltransparency.net/) - padrão de dados abertos fiscais
 * [Open Contracting Partnership \(OCP\)](https://www.open-contracting.org/) e manual de [abertura e padronização de dados](https://www.open-contracting.org/data-standard) de compras públicas
 * [Extractive Industries Transparency Initiative - dados das indústrias extrativas \(mineral, petróleo e gás\)](https://eiti.org/)
 * [W3C Data on the Web Best Practices](https://www.w3.org/TR/dwbp/) - boas práticas para publicação de dados abertos em geral
