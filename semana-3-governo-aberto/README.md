@@ -23,4 +23,5 @@
 * Meijer, A. J., Curtin, D., & Hillebrandt, M. \(2012\). [Open government: connecting vision and voice](https://journals.sagepub.com/doi/full/10.1177/0020852311429533). International review of administrative sciences, 78\(1\), 10-29.
 * Lathrop, D, Ruma, L \(eds\) \(2010a\) [Open Government: Collaboration, Transparency and Participation in Practice.](https://www.oreilly.com/library/view/open-government/9781449381936/) Beijing: O’Reilly.
 * Cruz-Rubio, N. \(2014\). [Hacia el Gobierno Abierto: Una caja de herramientas](http://www.gigapp.org/index.php/comunidad-gigapp/publication/show/1802). Washington, Estados Unidos: Organización de los Estados Americanos.
+* Burle C., Bellixand L., Machado J. \(2016\). [Que tal definirmos princípios de governo aberto?](https://www.opengovpartnership.org/stories/que-tal-definirmos-principios-de-governo-aberto/)
 
