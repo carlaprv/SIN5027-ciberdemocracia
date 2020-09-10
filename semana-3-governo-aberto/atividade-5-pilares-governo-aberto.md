@@ -2,3 +2,13 @@
 
 Discussão dos pilares de Governo Aberto \(transparência, accountability, participação/colaboração\) nos projetos desenhados na disciplina. 
 
+### Transparência
+
+
+
+### Accountability
+
+### Participação
+
+
+
