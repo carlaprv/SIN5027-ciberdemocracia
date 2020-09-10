@@ -12,7 +12,7 @@
 
 * [State of Open Data](https://stateofopendata.od4d.net/) - livro com capítulos temáticos ou regionais com reflexões de 10 anos da comunidade de prática de dados governamentais abertos.
 
-### **Iniciativas para padronização da publicação de dados abertos:**
+### **Iniciativas para padronização da publicação de dados abertos**
 
 * The International [Open Data Charter](https://opendatacharter.net/) - declaração dos dados abertos, adotada por diversos governos no mundo
 * [Open Fiscal Data Package](http://www.fiscaltransparency.net/ofdp/), da [Global Initiative for Fiscal Transparency \(GIFT\)](http://www.fiscaltransparency.net/) - padrão de  dados abertos fiscais 
