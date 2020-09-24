@@ -35,15 +35,9 @@ escrita de artigos em revistas que alcancem o público, divulgação científica
 
 [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/abs/2007.04068)
 
-* resumo: [https://montrealethics.ai/research-summary-decolonial-ai-decolonial-theory-as-sociotechnical-foresight-in-artificial-intelligence/](https://montrealethics.ai/research-summary-decolonial-ai-decolonial-theory-as-sociotechnical-foresight-in-artificial-intelligence/)
-
 [Practical Machine Learning for Developing Countries: Lessons and Reflections](https://pml4dc.github.io/iclr2020/pdf/PML4DC2020_4.pdf)  
 
 [Fanon, o reconhecimento do negro e o novo humanismo: horizontes descoloniais da tecnologia](http://repositorio.utfpr.edu.br:8080/jspui/handle/1/492)
-
-{% embed url="https://link.springer.com/article/10.1007/s13347-020-00428-1\#author-information" %}
-
-[https://www.decolonialai.com/about/](https://www.decolonialai.com/about/)
 
 ### **Produtos e resultados esperados**
 

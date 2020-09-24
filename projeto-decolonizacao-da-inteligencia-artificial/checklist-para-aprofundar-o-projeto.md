@@ -15,7 +15,3 @@
 * Análise de soluções
 * Desenvolvimento de uma solução
 
-\*\*\*\*
-
-\*\*\*\*
-
