@@ -12,9 +12,9 @@ Algumas coisas para a gente refletir:
 
 3. Trabalharemos em algum contexto específico de aplicação da IA ou isso não seria relevante?
 
-4. Eu acho que um bom trabalho na disciplina seria demonstrar o colonialismo da IA em um contexto. Penso que esta seria a melhor forma de incentivar o estudo na área. E, quem sabe, ideias preliminares de como decolonizá-lo. A questão é, como se demonstra isso? Faríamos um estudo de caso? Se sim, sugiro pensar em estudos de caso interpretativos \([https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/33/132/318-1?inline=1](https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/33/132/318-1?inline=1)\)
+4. Eu acho que um bom trabalho na disciplina seria demonstrar o colonialismo da IA em um contexto. Penso que esta seria a melhor forma de incentivar o estudo na área. E, quem sabe, ideias preliminares de como decolonizá-lo. A questão é, como se demonstra isso? Faríamos um estudo de caso? Se sim, sugiro pensar em **estudos de caso interpretativos** \([https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/33/132/318-1?inline=1](https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/33/132/318-1?inline=1)\)
 
-5. Deixo uma dica que acho que talvez ainda esteja distante, mas o estudo de teorias de pesquisa como a sociomaterialidade, teoria ator-rede etc, que podem te ajudar como arcabouço metodológico para trabalhos futuros. 
+5. Deixo uma dica que acho que talvez ainda esteja distante, mas o estudo de teorias de pesquisa como a **sociomaterialidade**, teoria ator-rede etc, que podem te ajudar como arcabouço metodológico para trabalhos futuros. 
 
 ## Feedbacks 20/09
 

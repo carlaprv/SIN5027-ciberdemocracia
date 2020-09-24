@@ -15,4 +15,6 @@
   * [Atividade 7 - Leituras & Reflexões de Governo Digital](semana-5-governo-digital/atividade-7-leituras-and-reflexoes-de-governo-digital.md)
 * [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial/README.md)
   * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
+  * [Checklist para aprofundar o projeto](projeto-decolonizacao-da-inteligencia-artificial/checklist-para-aprofundar-o-projeto.md)
+* [Apresentação 08/10](apresentacao-08-10.md)
 
