@@ -11,7 +11,8 @@
   * [Atividade 5: Pilares Governo Aberto](semana-3-governo-aberto/atividade-5-pilares-governo-aberto.md)
 * [Semana 4 - Dados Governamentais Abertos](semana-4-dados-governamentais-abertos/README.md)
   * [Atividade 6: Avaliação da publicação ou do reuso de dados governamentais abertos](semana-4-dados-governamentais-abertos/atividade-6-avaliacao-da-publicacao-ou-do-reuso-de-dados-governamentais-abertos.md)
-* [Semana 5 - Governo Digital](semana-5-governo-digital.md)
+* [Semana 5 - Governo Digital](semana-5-governo-digital/README.md)
+  * [Atividade 7 - Leituras & Reflexões de Governo Digital](semana-5-governo-digital/atividade-7-leituras-and-reflexoes-de-governo-digital.md)
 * [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial/README.md)
   * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
 
