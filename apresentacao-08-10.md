@@ -4,7 +4,7 @@
 
 * apresentar itens do projeto
 * fazer apresentação de slides
-* tempo:
+* **tempo:**
 
 ## **Tipos de  Projetos possíveis para a disciplina**
 
