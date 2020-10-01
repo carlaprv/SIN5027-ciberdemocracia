@@ -17,4 +17,5 @@
   * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
   * [Checklist para aprofundar o projeto](projeto-decolonizacao-da-inteligencia-artificial/checklist-para-aprofundar-o-projeto.md)
 * [Apresentação 08/10](apresentacao-08-10.md)
+* [Semana 6 - Codesign, CoProdução e Inovação](semana-6-codesign-coproducao-e-inovacao.md)
 
