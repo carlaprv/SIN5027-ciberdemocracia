@@ -13,9 +13,8 @@
   * [Atividade 6: Avaliação da publicação ou do reuso de dados governamentais abertos](semana-4-dados-governamentais-abertos/atividade-6-avaliacao-da-publicacao-ou-do-reuso-de-dados-governamentais-abertos.md)
 * [Semana 5 - Governo Digital](semana-5-governo-digital/README.md)
   * [Atividade 7 - Leituras & Reflexões de Governo Digital](semana-5-governo-digital/atividade-7-leituras-and-reflexoes-de-governo-digital.md)
-* [Projeto: Decolonização da Inteligência Artificial](projeto-decolonizacao-da-inteligencia-artificial/README.md)
-  * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
-  * [Checklist para aprofundar o projeto](projeto-decolonizacao-da-inteligencia-artificial/checklist-para-aprofundar-o-projeto.md)
-* [Apresentação 08/10](apresentacao-08-10.md)
 * [Semana 6 - Codesign, CoProdução e Inovação](semana-6-codesign-coproducao-e-inovacao.md)
+* [Projeto: Decolonização da Inteligência Artificial e uso de reconhecimento facial para vigilância](projeto-decolonizacao-da-inteligencia-artificial/README.md)
+  * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
+  * [Apresentação 1](projeto-decolonizacao-da-inteligencia-artificial/apresentacao-1.md)
 
