@@ -4,7 +4,7 @@ description: 'Autor: Carla Vieira'
 
 # Projeto: Decolonização da Inteligência Artificial e uso de reconhecimento facial para vigilância
 
-### **Tema:** Decolonização da Inteligência Artificial e uso de reconhecimento facial para vigilância
+### **Tema:** Decolonização da Inteligência Artificial e uso de reconhecimento facial para vigilância no Brasil
 
 ### **Contexto**
 
