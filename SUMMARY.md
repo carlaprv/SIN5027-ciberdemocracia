@@ -15,6 +15,7 @@
   * [Atividade 7 - Leituras & Reflexões de Governo Digital](semana-5-governo-digital/atividade-7-leituras-and-reflexoes-de-governo-digital.md)
 * [Semana 6 - Codesign, CoProdução e Inovação](semana-6-codesign-coproducao-e-inovacao.md)
 * [Projeto: Decolonização da Inteligência Artificial e uso de reconhecimento facial para vigilância](projeto-decolonizacao-da-inteligencia-artificial/README.md)
+  * [Artigo Final](projeto-decolonizacao-da-inteligencia-artificial/artigo-final.md)
   * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
   * [Apresentação 1](projeto-decolonizacao-da-inteligencia-artificial/apresentacao-1.md)
 
